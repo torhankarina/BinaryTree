@@ -1,3 +1,14 @@
+//***************************************************************************
+//
+// Karina Torhan
+// Z2111032
+// CSCI 340 -OPE1 20268
+// Assignment 07 Binary Tree
+// Due Date: 10/20/26, 5:00 PM
+// I certify that this is my own work and where appropriate an extension
+// of the starter code provided for the assignment.
+//
+//***************************************************************************
 #ifndef H_BTREE
 #define H_BTREE
 
